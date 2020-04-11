@@ -1,0 +1,47 @@
+/*Selector {
+	Property: value;
+}*/
+*{
+/*	text-align: right
+*/}
+body {
+background-image: url(maximalfocus-ZJni3-DhXc8-unsplash.jpg);
+background-size: cover
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	border: 5px solid rgb(255,0,0); 
+	cursor:	pointer;
+}
+
+p {
+	color: pink;
+}
+
+
+h2, p {
+	color: green;
+}
+p {
+	text-decoration: underline;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+    color: pink;
+	border: 65px dashed rgb(255,0,0);
+}
+.active {
+    color: red;
+	border: 5px dashed rgb(255,0,0);
+}
+
+#div1 {
+	background: rgba(255,0,255,0.1);
+}

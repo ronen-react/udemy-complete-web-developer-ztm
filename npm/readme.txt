@@ -1,0 +1,2 @@
+ packages: live-server
+ lodash
